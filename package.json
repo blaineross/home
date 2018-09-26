@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "\"# home\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaineross/home.git"
+  },
+  "author": "Blaine Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaineross/home/issues"
+  },
+  "homepage": "https://github.com/blaineross/home#readme",
+  "keywords": [
+    "blaine",
+    "ross",
+    "portfolio"
+  ]
+}
